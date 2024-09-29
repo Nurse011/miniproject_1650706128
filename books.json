@@ -1,0 +1,10 @@
+[
+  {
+    "id": 2,
+    "title": "To Kill a Mocking bird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publishedYear": 1960,
+    "availability": true
+  }
+]
